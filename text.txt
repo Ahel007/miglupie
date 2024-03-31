@@ -1,8 +1,11 @@
 mhbmhbmkh
 Hello Git
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 It`s New Line
 
 Heloloadfm;k durak efgfasdasdasdasd
 >>>>>>> parent of 347198f (LORI)
+=======
+>>>>>>> parent of 2b25b00 (delete)
