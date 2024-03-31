@@ -1,2 +1,8 @@
 mhbmhbmkh
 Hello Git
+<<<<<<< HEAD
+=======
+It`s New Line
+
+Heloloadfm;k durak efgfasdasdasdasd
+>>>>>>> parent of 347198f (LORI)
