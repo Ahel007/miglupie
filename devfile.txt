@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 Hello bitch
 LOSHAD
 Hello bitch you bitch
 a ti ne bitch
+=======
+Hello bitch you bitch
+LOSHAD
+>>>>>>> aae7df856dac376fe065da956135366363bcc433
